@@ -6,7 +6,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/martin_penas?logo=twitter&style=for-the-badge)](https://twitter.com/martin_penas)
 
-- 🔭 Estoy trabajando en varios proyectos.
+- 🔭 Trabajando en varios proyectos.
 - 🌱 Estudiando machine learning y otras techs. 
-- 🔮 Espero encontrar el futuro (o que me encuentre 👣)
+- 🔮 Preparando el futuro.
 
